@@ -1,4 +1,3 @@
-idea: {'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
 Machines taking over the World: {'rouge1': 0.5081374321880651, 'rouge2': 0.26086956521739135, 'rougeL': 0.3580470162748644, 'rougeLsum': 0.4954792043399639}
 My Cyberpunk Romance: {'rouge1': 0.399671052631579, 'rouge2': 0.17792421746293247, 'rougeL': 0.25000000000000006, 'rougeLsum': 0.3832236842105263}
 Beans base-jumping off the kitchen counter: {'rouge1': 0.4664484451718494, 'rouge2': 0.3081967213114754, 'rougeL': 0.36824877250409166, 'rougeLsum': 0.4599018003273322}

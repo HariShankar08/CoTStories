@@ -1,0 +1,3 @@
+Machines taking over the World: {'rouge1': 0.0908140598458121, 'rouge2': 0.09069524307370622, 'rougeL': 0.0908140598458121, 'rougeLsum': 0.0908140598458121}
+My Cyberpunk Romance: {'rouge1': 0.14651143027109712, 'rouge2': 0.14636634084147895, 'rougeL': 0.14651143027109712, 'rougeLsum': 0.14651143027109712}
+Beans base-jumping off the kitchen counter: {'rouge1': 0.19282658769332015, 'rouge2': 0.19264947888096542, 'rougeL': 0.19282658769332015, 'rougeLsum': 0.19282658769332015}
