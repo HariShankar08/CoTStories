@@ -14,6 +14,8 @@ for filename in os.listdir(directory1):
     f = os.path.join(directory1, filename)
     # checking if it is a file
     if os.path.isfile(f):
+        if("singleprompt" in f):
+            continue
         avg_by_metric = {}  
         rouge_by_idea = 0
         # rouge_by_metric = 0
